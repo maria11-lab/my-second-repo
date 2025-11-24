@@ -1,0 +1,3 @@
+﻿  practise_string.cpp
+C:\Users\Admin\my-first-repo\practise_string\practise_string\practise_string.cpp(15,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  practise_string.vcxproj -> C:\Users\Admin\my-first-repo\practise_string\x64\Debug\practise_string.exe

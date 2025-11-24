@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\my-first-repo\\practise_string\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4339CA85-14D4-4395-9FB4-28FBDE2AFD25}|practise_string\\practise_string.vcxproj|C:\\Users\\Admin\\my-first-repo\\practise_string\\practise_string\\practise_string.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4339CA85-14D4-4395-9FB4-28FBDE2AFD25}|practise_string\\practise_string.vcxproj|solutionrelative:practise_string\\practise_string.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "practise_string.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\my-first-repo\\practise_string\\practise_string\\practise_string.cpp",
+              "RelativeDocumentMoniker": "practise_string\\practise_string.cpp",
+              "ToolTip": "C:\\Users\\Admin\\my-first-repo\\practise_string\\practise_string\\practise_string.cpp",
+              "RelativeToolTip": "practise_string\\practise_string.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-04T07:10:24.096Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

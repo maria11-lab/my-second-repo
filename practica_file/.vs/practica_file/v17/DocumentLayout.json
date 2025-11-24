@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\my-first-repo\\practica_file\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3517CA8-7025-4AAC-80D5-6088E99210D7}|practica_file\\practica_file.vcxproj|C:\\Users\\Admin\\my-first-repo\\practica_file\\practica_file\\practica_file.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E3517CA8-7025-4AAC-80D5-6088E99210D7}|practica_file\\practica_file.vcxproj|solutionrelative:practica_file\\practica_file.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3517CA8-7025-4AAC-80D5-6088E99210D7}|practica_file\\practica_file.vcxproj|C:\\Users\\Admin\\my-first-repo\\practica_file\\practica_file\\output.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E3517CA8-7025-4AAC-80D5-6088E99210D7}|practica_file\\practica_file.vcxproj|solutionrelative:practica_file\\output.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3517CA8-7025-4AAC-80D5-6088E99210D7}|practica_file\\practica_file.vcxproj|C:\\Users\\Admin\\my-first-repo\\practica_file\\practica_file\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E3517CA8-7025-4AAC-80D5-6088E99210D7}|practica_file\\practica_file.vcxproj|solutionrelative:practica_file\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "practica_file.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\my-first-repo\\practica_file\\practica_file\\practica_file.cpp",
+              "RelativeDocumentMoniker": "practica_file\\practica_file.cpp",
+              "ToolTip": "C:\\Users\\Admin\\my-first-repo\\practica_file\\practica_file\\practica_file.cpp",
+              "RelativeToolTip": "practica_file\\practica_file.cpp",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAswFwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-22T17:51:17.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "input.txt",
+              "DocumentMoniker": "C:\\Users\\Admin\\my-first-repo\\practica_file\\practica_file\\input.txt",
+              "RelativeDocumentMoniker": "practica_file\\input.txt",
+              "ToolTip": "C:\\Users\\Admin\\my-first-repo\\practica_file\\practica_file\\input.txt",
+              "RelativeToolTip": "practica_file\\input.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-11-22T17:40:29.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "output.txt",
+              "DocumentMoniker": "C:\\Users\\Admin\\my-first-repo\\practica_file\\practica_file\\output.txt",
+              "RelativeDocumentMoniker": "practica_file\\output.txt",
+              "ToolTip": "C:\\Users\\Admin\\my-first-repo\\practica_file\\practica_file\\output.txt",
+              "RelativeToolTip": "practica_file\\output.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-11-22T17:40:04.976Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
